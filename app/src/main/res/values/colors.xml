@@ -3,10 +3,17 @@
     <color name="color_primary">#3F51B5</color>
     <color name="color_primary_dark">#303F9F</color>
     <color name="color_accent">#FF4081</color>
+
+    <!-- Greyscale-->
+    <color name="grey">#5d5d5d</color>
+    <color name="grey_light">#9c9c9c</color>
+
     <!-- Basic colors -->
     <color name="green">#27D34D</color>
     <color name="blue">#2A91BD</color>
     <color name="orange">#FF9D2F</color>
     <color name="red">#FF432F</color>
-    <!-- -->
-</resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+ </resources>
